@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 
-void main()
+int main()
 {
     char str[100];
     int l= 0;
